@@ -1,10 +1,11 @@
+import Boton from "./components/Boton"
 
 
 function App() {
 
 
   return (
-    <h1>prueba</h1>
+    <Boton/>
   )
 }
 
